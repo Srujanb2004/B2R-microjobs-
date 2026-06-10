@@ -1,0 +1,7 @@
+{
+    "python.defaultInterpreterPath": "d:\\B2R-microjobs-\\backend\\venv\\Scripts\\python.exe",
+    "python.analysis.extraPaths": [
+        "d:\\B2R-microjobs-\\backend\\venv\\Lib\\site-packages",
+        "d:\\B2R-microjobs-\\backend"
+    ]
+}
